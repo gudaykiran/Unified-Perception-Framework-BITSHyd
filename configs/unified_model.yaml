@@ -1,0 +1,21 @@
+data:
+  batch_size: 4
+  img_size:
+  - 384
+  - 1248
+  lidar_range_view:
+  - 64
+  - 1024
+hardware:
+  device: cuda
+  mixed_precision: true
+  num_workers: 4
+model:
+  feature_dim: 256
+  fusion_type: cross_attention
+  num_classes: 19
+training:
+  learning_rate: 0.0001
+  num_epochs: 100
+  optimizer: AdamW
+  scheduler: CosineAnnealingLR

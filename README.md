@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### 🏆 Winner - AUTOwn'25 Competition (BITS Pilani WILP)
+### AUTOwn'25 Competition (BITS Pilani WILP)
 
 A state-of-the-art multimodal perception system that fuses RGB camera images and LiDAR point clouds for robust semantic and instance segmentation in autonomous driving scenarios.
 
@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- NIT Warangal for computational resources
+- Department of CSE(AI & ML), B V Raju Institute of Technology, Narsapur
 - BITS Pilani WILP for organizing AUTOwn'25
 - OpenMMLab for segmentation baselines
 - KITTI and Cityscapes dataset providers

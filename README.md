@@ -163,14 +163,13 @@ python src/inference/evaluate.py --model checkpoints/unified_model.pth --dataset
 
 **AUTOwn'25 - BITS Pilani WILP (February 2026)**
 - **Category**: Applied AI/ML for Automotive
-- **Achievement**: 1st Place 🥇
 - **Key Differentiator**: True sensor fusion vs. single-modality approaches
 
 ## 👥 Team
 
-- **Your Name** - PhD Scholar, NIT Warangal
-- **Dr. T. Ramakrishnudu** - Supervisor, NIT Warangal
-- **Collaborators** - B.V. Raju Institute of Technology
+- **K Sri Snigdha** - UG Student, Department of CSE(AI & ML), B V Raju Institute of Technology, Narsapur
+- **Dr. G Uday Kiran, Ms. Srilakshmi V** - Supervisors, Department of CSE(AI & ML), B V Raju Institute of Technology, Narsapur
+
 
 ## 📚 Citation
 
